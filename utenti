@@ -1,1 +1,10 @@
-luca
+[
+  {
+    "nome": "Luca",
+    "credito": 69
+  },
+  {
+    "nome": "Promi",
+    "credito": 420
+  }
+]
