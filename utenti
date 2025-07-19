@@ -10,5 +10,11 @@
     "credito": 420,
     "email": "promi@email.com",
     "password": "passPromi"
+  },
+  {
+    "nome": "Alex",
+    "credito": 5,
+    "email": "alexruse0707@email.com",
+    "password": "passPromi"
   }
 ]
