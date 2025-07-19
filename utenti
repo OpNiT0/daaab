@@ -3,21 +3,21 @@
     "nome": "Luca",
     "credito": 50,
     "email": "luca@email.com",
-    "password": "passLuca"
+    "password": "passLuca",
     "webhook": "https://discord.com/api/webhooks/1396164167794429952/2bm3nxUGSPBr1esgQpRBEhujpLuHhkEkzwp_I1w0CCYlZtZF-sDu9U5wZaBjOnPF5ZDu"
   },
   {
     "nome": "Promi",
     "credito": 420,
     "email": "promi@email.com",
-    "password": "passPromi"
+    "password": "passPromi",
     "webhook": "https://discord.com/api/webhooks/1396165296360001742/FTudO5j_Ng89hAUX1aw01L4FpgjtZk39hPKhX0xmKE3n1qKU75LK7zZoi6NcwdV47xrH"
   },
   {
     "nome": "Alex",
     "credito": 5,
     "email": "alexruse0707@email.com",
-    "password": "passAlex"
+    "password": "passAlex",
     "webhook": "https://discord.com/api/webhooks/1396164924467581039/qxLWuV6X0Fu3JAj6qQGqHdyhuBsBjLykPYWjLlTCQ9P0PqdgJfAl-EaRZTuu57fgYLv8"
   }
 ]
