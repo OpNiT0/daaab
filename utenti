@@ -1,10 +1,14 @@
 [
   {
     "nome": "Luca",
-    "credito": 50
+    "credito": 50,
+    "email": "luca@email.com",
+    "password": "passLuca"
   },
   {
     "nome": "Promi",
-    "credito": 420
+    "credito": 420,
+    "email": "promi@email.com",
+    "password": "passPromi"
   }
 ]
