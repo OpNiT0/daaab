@@ -1,0 +1,45 @@
+<div style="max-width:600px;width:100%;background:#fff;margin:0 auto;border-radius:4px;overflow:hidden">
+  <div style="background:#1e88e5;width:100%;padding:20px 0;text-align:center">
+    <img src="https://ci3.googleusercontent.com/meips/ADKq_NaHRW4T_Bh0gV1rDXtpqoEV9H1A8Gw0XQmJ2TTYp5QivVeQ9h7bxG8dTOMObEQC5lH7xmxOMw=s0-d-e1-ft#https://daaab.it/static/logo.png" alt="Logo" style="height:40px">
+  </div>
+  <div style="padding:30px 25px 60px">
+    <h1 style="color:#1e88e5;margin:0 0 20px 0">Conferma biglietto <span><span><span><span class="il">daAaB</span></span></span></span></h1>
+    <div>
+      <p style="margin:0 0 20px 0;line-height:1.6">
+        Gentile Cliente, la ringraziamo per aver scelto i nostri servizi!<br>
+        Le confermiamo che l'acquisto del titolo di viaggio da Lei richiesto è andato a buon fine.<br>
+        Di seguito le riportiamo il dettaglio della soluzione da Lei acquistata:
+      </p>
+    </div>
+    <div style="margin:50px auto;padding:16px;text-align:center;background:rgba(30,136,229,0.1);color:#1e88e5;border-radius:4px">
+      <h2 style="margin:0 0 10px 0">ATVO S.p.A. - Extraurbano CLASSE 4</h2>
+      <h3 style="margin:0 0 10px 0">Prezzo: euro 3.50</h3>
+      <h3 style="margin:0 0 20px 0">Azienda: ATVO S.p.A.</h3>
+      <div>
+        <a href="${link1}" style="background:#1e88e5;padding:16px 30px;display:inline-block;border-radius:50px;color:#fff;text-transform:uppercase;letter-spacing:1px;text-decoration:none" target="_blank" >
+          Vai al Biglietto
+        </a>
+      </div>
+    </div>
+    <div style="margin-top:30px">
+      <h2 style="text-align:center;color:#1e88e5;margin:0 0 10px 0">! ATTENZIONE !</h2>
+      <p style="line-height:1.6;margin:0 0 20px 0">
+        Il biglietto è utilizzabile solo ed esclusivamente dal dispositivo (applicazione o browser) da cui viene attivato.<br>
+        Il suo biglietto è ad attivazione manuale e sarà utilizzabile solo ed esclusivamente dal dispositivo che visualizzerà per la prima volta il codice QR al momento dell'attivazione.
+      </p>
+      <p style="line-height:1.6;margin:0 0 20px 0">
+        In alternativa può cliccare sul link seguente (ma le ricordiamo che una volta attivato potrà visualizzare il suo biglietto solo da questa pagina):
+      </p>
+      <p style="text-align:center;margin:0">
+        <a href="${link2}" style="color:#1e88e5" target="_blank">
+          Link monouso ATVO S.p.A. - Extraurbano CLASSE 4
+        </a>
+      </p>
+    </div>
+  </div>
+  <div style="background:#1e88e5;width:100%;padding:20px 0;text-align:center;color:#fff;font-size:12px">
+    <a href="https://web.daaab.it/termini-e-condizioni/" style="color:#fff;text-decoration:none" target="_blank">
+      Termini e condizioni di utilizzo
+    </a>
+  </div>
+</div>
