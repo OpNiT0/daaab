@@ -3,28 +3,35 @@
     "nome": "Luca",
     "credito": 50,
     "email": "luca.gabor1010@gmail.com",
-    "password": "passLuca",
+    "password": "",
     "webhook": "https://discord.com/api/webhooks/1396164167794429952/2bm3nxUGSPBr1esgQpRBEhujpLuHhkEkzwp_I1w0CCYlZtZF-sDu9U5wZaBjOnPF5ZDu"
   },
   {
     "nome": "Promi",
     "credito": 420,
     "email": "promi@email.com",
-    "password": "passPromi",
+    "password": "",
     "webhook": "https://discord.com/api/webhooks/1396165296360001742/FTudO5j_Ng89hAUX1aw01L4FpgjtZk39hPKhX0xmKE3n1qKU75LK7zZoi6NcwdV47xrH"
   },
   {
     "nome": "Alex",
     "credito": 5,
-    "email": "alexruse0707@email.com",
-    "password": "passAlex",
+    "email": "alexruse0707@egmail.com",
+    "password": "",
     "webhook": "https://discord.com/api/webhooks/1396164924467581039/qxLWuV6X0Fu3JAj6qQGqHdyhuBsBjLykPYWjLlTCQ9P0PqdgJfAl-EaRZTuu57fgYLv8"
   },
   {
     "nome": "Thomas",
     "credito": 5,
-    "email": "thomasdelazzari@email.com",
-    "password": "passAlex",
+    "email": "thomasdelazzari@gmail.com",
+    "password": "",
     "webhook": "https://discord.com/api/webhooks/1396210016716849282/KkSyyFL7bPjeFL7yG3xQ6xTA8R12MSoXFtunrvkYsbxzXizwaqQQNAEckzoLvIL467a6"
+  },
+  {
+    "nome": "Guglielmo",
+    "credito": 5,
+    "email": "sonoguglieeee@gmail.com",
+    "password": "",
+    "webhook": "https://discord.com/api/webhooks/1396210905439535334/2hnUI29rKJlAAwVuBCmfHrc4ZeRGa4Dv9QbixOaSv3d3egByJu8SgrU3wX9QUC0Sy-QI"
   }
 ]
