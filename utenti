@@ -19,5 +19,12 @@
     "email": "alexruse0707@email.com",
     "password": "passAlex",
     "webhook": "https://discord.com/api/webhooks/1396164924467581039/qxLWuV6X0Fu3JAj6qQGqHdyhuBsBjLykPYWjLlTCQ9P0PqdgJfAl-EaRZTuu57fgYLv8"
+  },
+  {
+    "nome": "Thomas",
+    "credito": 5,
+    "email": "thomasdelazzari@email.com",
+    "password": "passAlex",
+    "webhook": "https://discord.com/api/webhooks/1396210016716849282/KkSyyFL7bPjeFL7yG3xQ6xTA8R12MSoXFtunrvkYsbxzXizwaqQQNAEckzoLvIL467a6"
   }
 ]
