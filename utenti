@@ -40,5 +40,12 @@
     "email": "@",
     "password": "",
     "webhook": "https://discord.com/api/webhooks/1396537700810625164/Qc4Aw1069QMOlkJ4VFuAIEzVNjJDc4k62Wz5mY0xS3pbMIkRGc9Lo1UUYgI8jWMmpL3W"
+  },
+  {
+    "nome": "Stephan",
+    "credito": 5,
+    "email": "ogrummy@icloud.com",
+    "password": "",
+    "webhook": "https://discord.com/api/webhooks/1397207592987660328/_xWud4iM0ur7ambS9R6RjsNGA5g6AwRPQWtezhcJSxTIVkn1I10Y17oEaZ9hzoKHEceh"
   }
 ]
