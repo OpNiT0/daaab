@@ -16,7 +16,7 @@
       <h3 style="margin:0 0 10px 0">Prezzo: euro 3.50</h3>
       <h3 style="margin:0 0 20px 0">Azienda: ATVO S.p.A.</h3>
       <div>
-        <a href="${link1}" style="background:#1e88e5;padding:16px 30px;display:inline-block;border-radius:50px;color:#fff;text-transform:uppercase;letter-spacing:1px;text-decoration:none" target="_blank" >
+        <a href="${link}" style="background:#1e88e5;padding:16px 30px;display:inline-block;border-radius:50px;color:#fff;text-transform:uppercase;letter-spacing:1px;text-decoration:none" target="_blank" >
           Vai al Biglietto
         </a>
       </div>
@@ -31,7 +31,7 @@
         In alternativa può cliccare sul link seguente (ma le ricordiamo che una volta attivato potrà visualizzare il suo biglietto solo da questa pagina):
       </p>
       <p style="text-align:center;margin:0">
-        <a href="${link2}" style="color:#1e88e5" target="_blank">
+        <a href="${link}" style="color:#1e88e5" target="_blank">
           Link monouso ATVO S.p.A. - Extraurbano CLASSE 4
         </a>
       </p>
