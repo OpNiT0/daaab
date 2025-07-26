@@ -1,5 +1,6 @@
 {
   "Jesolo": {
+    "prezzo": 1.50
     "codice": "250005553",
     "directions": [
       {
@@ -25,6 +26,7 @@
     ]
   },
   "Urbano Jesolo": {
+    "prezzo": 0.50
     "codice": "250049530",
     "directions": [
       {
