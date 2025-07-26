@@ -1,6 +1,6 @@
 {
   "Jesolo": {
-    "codice": "123456789",
+    "codice": "250005553",
     "directions": [
       {
         "name": "S.Donà Autostazione → Lido di Jesolo",
@@ -25,7 +25,7 @@
     ]
   },
   "Urbano Jesolo": {
-    "codice": "987654321",
+    "codice": "250049530",
     "directions": [
       {
         "name": "Autostazione ATVO → Piazza Faro",
