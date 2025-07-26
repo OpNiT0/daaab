@@ -1,1 +1,164 @@
+:root {
+  --primary: #ff6b6b;
+  --secondary: #feca57;
+  --dark-bg: #1f1f1f;
+  --light-bg: #f4f4f4;
+  --text-light: #fafafa;
+  --text-dark: #333333;
+  --transition: 0.3s ease;
+}
 
+/* Reset & Box Sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Layout */
+body {
+  background: var(--dark-bg);
+  color: var(--text-light);
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  overflow-x: hidden;
+}
+
+/* Heading */
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 2px;
+  animation: fadeIn 1s;
+}
+
+/* Credit Badge */
+p#credit {
+  font-weight: 600;
+  background: linear-gradient(45deg, var(--primary), var(--secondary));
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+  opacity: 0;
+  animation: fadeIn 1s 0.5s forwards;
+}
+
+/* Services Buttons */
+#services {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+button.service-btn {
+  background: linear-gradient(45deg, var(--primary), var(--secondary));
+  border: none;
+  border-radius: 2rem;
+  padding: 1rem 2rem;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+
+button.service-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform var(--transition);
+}
+
+button.service-btn:hover::before {
+  transform: scaleY(1);
+}
+
+button.service-btn:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Selectors (Directions & Times) */
+.selector {
+  background: var(--light-bg);
+  color: var(--text-dark);
+  padding: 1rem;
+  border-radius: 1rem;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 400px;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s forwards;
+}
+
+.selector label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.selector select {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border: 2px solid var(--primary);
+  font-size: 1rem;
+}
+
+/* Send Button */
+#sendBtn {
+  background: var(--primary);
+  border: none;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background var(--transition), transform var(--transition);
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s 0.5s forwards;
+}
+
+#sendBtn:hover {
+  background: var(--secondary);
+  transform: scale(1.05);
+}
+
+/* Results & Mail Status */
+#results,
+#mailStatus {
+  margin-top: 1rem;
+  font-weight: 600;
+  min-height: 1.2em;
+  opacity: 0;
+  animation: fadeIn 1s 1s forwards;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
