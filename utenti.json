@@ -62,5 +62,13 @@
     "attivo": true,
     "causale": "",
     "webhook": "https://discord.com/api/webhooks/1398690277274685531/qjNgph60IXLs5-n1fijLzFgoxyIH3vc34bNEtsYJN8ejvaE1-SU7bGX1q24dKmWZBoxE"
+  },
+  {
+    "nome": "Anna",
+    "credito": 5,
+    "email": "",
+    "attivo": false,
+    "causale": "Non ho la tua mail",
+    "webhook": "https://discord.com/api/webhooks/1398694753771716660/heUUb-ZlX7md-aKJOE_FCO3JQDgEUHpT-YK3UxYP6A4ZD38RTj82wRVH7Wn1vg2xWJBK"
   }
 ]
