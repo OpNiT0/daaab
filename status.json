@@ -1,6 +1,6 @@
 {
   "attivo": true,
   "causale": "",
-  "notifica": false,
-  "messaggio": ""
+  "notifica": true,
+  "messaggio": "⚠️ Il servizio sarà sospeso domani per manutenzione"
 }
