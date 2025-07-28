@@ -1,6 +1,6 @@
 {
-  "attivo": false,
-  "causale": "",
+  "attivo": true,
+  "causale": "Siete tutti froci",
   "notifica": true,
   "messaggio": "Centro piave e Jesolo Urbano NON E' ancora stato testato, usatelo a vostro rischio e pericolo"
 }
