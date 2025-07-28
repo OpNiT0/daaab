@@ -1,7 +1,7 @@
 [
   {
     "nome": "Luca",
-    "credito": "∞",
+    "credito": 99999999999999,
     "email": "luca.gabor1010@gmail.com",
     "attivo": true,
     "causale": "",
