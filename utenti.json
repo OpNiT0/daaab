@@ -65,7 +65,7 @@
   },
   {
     "nome": "Anna",
-    "credito": 1.5,
+    "credito": 0.5,
     "email": "anna.monfardino09@gmail.com",
     "attivo": true,
     "causale": "",
