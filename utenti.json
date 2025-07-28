@@ -65,7 +65,7 @@
   },
   {
     "nome": "Anna",
-    "credito": 0.5,
+    "credito": 0.00,
     "email": "anna.monfardino09@gmail.com",
     "attivo": false,
     "causale": "credito esaurito",
