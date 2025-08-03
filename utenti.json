@@ -67,8 +67,8 @@
     "nome": "Anna",
     "credito": 10.00,
     "email": "anna.monfardino09@gmail.com",
-    "attivo": true,
-    "causale": "",
+    "attivo": false,
+    "causale": "credito insufficiente",
     "webhook": "https://discord.com/api/webhooks/1398694753771716660/heUUb-ZlX7md-aKJOE_FCO3JQDgEUHpT-YK3UxYP6A4ZD38RTj82wRVH7Wn1vg2xWJBK"
   }
 ]
