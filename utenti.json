@@ -33,10 +33,10 @@
   },
   {
     "nome": "Guglielmo",
-    "credito": 1,
+    "credito": 0,
     "email": "alessandroshvets98@gmail.com",
-    "attivo": true,
-    "causale": "",
+    "attivo": false,
+    "causale": "credito esaurito",
     "webhook": "https://discord.com/api/webhooks/1396210905439535334/2hnUI29rKJlAAwVuBCmfHrc4ZeRGa4Dv9QbixOaSv3d3egByJu8SgrU3wX9QUC0Sy-QI"
   },
   {
