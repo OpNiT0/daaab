@@ -33,10 +33,10 @@
   },
   {
     "nome": "Guglielmo",
-    "credito": 0,
-    "email": "alessandroshvets98@gmail.com",
+    "credito": 5,
+    "email": "",
     "attivo": false,
-    "causale": "credito esaurito",
+    "causale": "non ho la tua mail",
     "webhook": "https://discord.com/api/webhooks/1396210905439535334/2hnUI29rKJlAAwVuBCmfHrc4ZeRGa4Dv9QbixOaSv3d3egByJu8SgrU3wX9QUC0Sy-QI"
   },
   {
@@ -94,5 +94,13 @@
     "attivo": true,
     "causale": "credito insufficiente",
     "webhook": "https://discord.com/api/webhooks/1413165352145125509/gBBSzYFhRLzXu0ZMrrUTrRbGtZikJf29qoJHKHPuaWiI3Yg4W8jbF0dZJG6ey1rl5imk"
+  },
+  {
+    "nome": "Alessandro",
+    "credito": 0.00,
+    "email": "alessandroshvets98@gmail.com",
+    "attivo": false,
+    "causale": "credito insufficiente",
+    "webhook": "https://discord.com/api/webhooks/1413165990174265554/xozHaIQ1EMdCuRZgurgaDoWRG7uvfGUTpuHsG5V4qtkwAqTnM3Tj9fHAGqBVkwwXNX7P"
   }
 ]
