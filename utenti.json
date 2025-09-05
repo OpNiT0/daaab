@@ -57,10 +57,10 @@
   },
   {
     "nome": "Carlo",
-    "credito": 1,
+    "credito": 0,
     "email": "carlo.avveniente04@gmail.com",
-    "attivo": true,
-    "causale": "",
+    "attivo": false,
+    "causale": "Credito esaurito",
     "webhook": "https://discord.com/api/webhooks/1398690277274685531/qjNgph60IXLs5-n1fijLzFgoxyIH3vc34bNEtsYJN8ejvaE1-SU7bGX1q24dKmWZBoxE"
   },
   {
